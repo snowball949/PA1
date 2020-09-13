@@ -16,4 +16,12 @@ syscall_64.tbl file path: ./arch/x86/entry/entry/syscalls/syscall_64.tbl
 
 syscalls.h file path: ./include/linux/syscalls.h
 
+syscall1.c(test program for helloworld) file path: /home/kernel/linux-hwe-4.15.0/syscall1.c
+
+syscall2.c(test program for cs3753_add) file path: /home/kernel/linux-hwe-4.15.0/syscall2.c
+
+
+
+
+
 
